@@ -1,16 +1,51 @@
+# Hi there, I'm Tran Anh Van (`v0ntr3n`) 👋
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tranvan205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tr0nv3n) 
+**AI & Systems Engineer** • Building with **PyTorch, Python, and Rust** • Focused on **LLMs, Multi-Agent Systems, Diffusion Models, and High-Performance Systems**
 
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=v0ntr3n&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=v0ntr3n&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v0ntr3n&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tran%20Anh%20Van-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tr0nv3n)
+[![Facebook](https://img.shields.io/badge/Facebook-tranvan205-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tranvan205)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=v0ntr3n&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Engineering Projects
+
+| Project | Domain & Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **[ResolveAi](https://github.com/v0ntr3n/ResolveAi)** | `LangGraph` `FastAPI` `FAISS` `Next.js` `RAGAS` | Bilingual (EN/VI) autonomous Tier-1 support agent with intent-routed RAG, SQL tool use, human escalation guardrails, and **0.773 RAGAS Faithfulness**. |
+| **[hpc_io_scheduler (FIAC)](https://github.com/v0ntr3n/hpc_io_scheduler)** | `PyTorch` `Kalman Filter` `XGBoost` `Qwen-LoRA` | 4-stage Forecast-Informed Adaptive Control for HPC job I/O scheduling on MIT Supercloud (**87.2% Decision Acc** vs. 68.3% FCFS; **74% lower False-Submit Rate**). |
+| **[TradingAgents-EN](https://github.com/v0ntr3n/TradingAgents-EN)** | `Multi-Agent LLM` `FastAPI` `Vue 3` `Playwright` | Full-stack multi-agent financial research & quantitative benchmarking platform for US and Asian equity markets. |
+| **[adbkit-rs](https://github.com/v0ntr3n/adbkit-rs)** | `Rust` `Async I/O` `CLI` `Android ADB` | Idiomatic Rust library crate and CLI port of `@devicefarmer/adbkit` for low-overhead communication with the Android Debug Bridge server. |
+| **[Lu-Khach-Ky-Uc](https://github.com/v0ntr3n/Lu-Khach-Ky-Uc)** | `TypeScript` `Vite` `Vitest` `Playwright` | 2D HD-2D narrative puzzle-platformer across 14 interconnected Tiled maps with custom static map-graph validation and automated E2E testing. |
+| **[tpg_nag (DualGuide-SDXL)](https://github.com/v0ntr3n/tpg_nag)** | `PyTorch` `Diffusers` `SDXL` `Guidance` | Combines Token Perturbation Guidance (TPG) and Normalized Attention Guidance (NAG) to improve generation fidelity in Stable Diffusion XL. |
+
+---
+
+## 🌍 Open-Source Contributions
+
+- **[horizon-rust/horizon](https://github.com/horizon-rust/horizon/pulls?q=is%3Apr+author%3Av0ntr3n+is%3Amerged)** *(Minecraft: Java Edition 26.3 Server in Rust)* — **6 Merged Pull Requests** implementing vanilla-parity RNG synchronization and deterministic gameplay mechanics verified against differential harnesses.
+- **[v0ntr3n/rustdesk](https://github.com/v0ntr3n/rustdesk)** *(RustDesk Windows Build Optimization)* — Custom Windows x64 Flutter CI workflow, H.264-only `vcpkg` FFmpeg trimming (`hwcodec`/`vram`), and Release fat-LTO build optimizations.
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=v0ntr3n&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ntr3n&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v0ntr3n&theme=synthwave&hide_border=true" />
+</p>
