@@ -14,7 +14,7 @@
   **Anh Van Tran** *(First Author)*, Van Quyen Nguyen, Ngoc Bich Do, Nam Khanh Pham, Tien Dat Nguyen, Van Hieu Bui
   *International Symposium on Integrated Uncertainty in Knowledge Modelling and Decision Making (**IUKM 2026**)* — **Springer Lecture Notes in Artificial Intelligence (LNAI, Vol. 16919)**, pp. 149–161.
   > Combines **FlashAttention** with **Token Perturbation Guidance (TPG)** and **Normalized Attention Guidance (NAG)** + LoRA fine-tuning, **reducing peak GPU memory by 40%** and **increasing sampling throughput by 11.6%** over unoptimized Diffusers baselines while improving FID and CLIPScore.
-  > 🔗 **DOI:** [`10.1007/978-981-92-5644-0_12`](https://doi.org/10.1007/978-981-92-5644-0_12) · 💻 **Code:** [`v0ntr3n/tpg_nag`](https://github.com/v0ntr3n/tpg_nag)
+  > 🔗 **DOI:** [`10.1007/978-981-92-5644-0_12`](https://doi.org/10.1007/978-981-92-5644-0_12) · 💻 **Code:** [`v0ntr3n/FlashDiff`](https://github.com/v0ntr3n/FlashDiff)
 
 ---
 
@@ -24,7 +24,7 @@
 | :--- | :--- | :--- |
 | **[ResolveAi](https://github.com/v0ntr3n/ResolveAi)** | `LangGraph` `FastAPI` `FAISS` `Next.js` `RAGAS` | Bilingual (EN/VI) autonomous Tier-1 support agent with intent-routed RAG, SQL tool use, human escalation guardrails, and **0.773 RAGAS Faithfulness**. |
 | **[hpc_io_scheduler (FIAC)](https://github.com/v0ntr3n/hpc_io_scheduler)** | `PyTorch` `Kalman Filter` `XGBoost` `Qwen-LoRA` | 4-stage Forecast-Informed Adaptive Control for HPC job I/O scheduling on MIT Supercloud (**87.2% Decision Acc** vs. 68.3% FCFS; **74% lower False-Submit Rate**). |
-| **[tpg_nag (DualGuide-SDXL / FlashDiff)](https://github.com/v0ntr3n/tpg_nag)** | `PyTorch` `Diffusers` `SDXL` `FlashAttention` | Guided diffusion combining Token Perturbation Guidance (TPG) & Normalized Attention Guidance (NAG); basis of our **Springer LNAI (IUKM 2026)** paper. |
+| **[FlashDiff (DualGuide-SDXL)](https://github.com/v0ntr3n/FlashDiff)** | `PyTorch` `Diffusers` `SDXL` `FlashAttention` | Guided diffusion combining Token Perturbation Guidance (TPG) & Normalized Attention Guidance (NAG); basis of our **Springer LNAI (IUKM 2026)** paper. |
 | **[TradingAgents-EN](https://github.com/v0ntr3n/TradingAgents-EN)** | `Multi-Agent LLM` `FastAPI` `Vue 3` `Playwright` | Full-stack multi-agent financial research & quantitative benchmarking platform for US and Asian equity markets. |
 | **[adbkit-rs](https://github.com/v0ntr3n/adbkit-rs)** | `Rust` `Async I/O` `CLI` `Android ADB` | Idiomatic Rust library crate and CLI port of `@devicefarmer/adbkit` for low-overhead communication with the Android Debug Bridge server. |
 | **[Lu-Khach-Ky-Uc](https://github.com/v0ntr3n/Lu-Khach-Ky-Uc)** | `TypeScript` `Vite` `Vitest` `Playwright` | 2D HD-2D narrative puzzle-platformer across 14 interconnected Tiled maps with custom static map-graph validation and automated E2E testing. |
