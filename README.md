@@ -31,13 +31,6 @@
 
 ---
 
-## 🌍 Open-Source Contributions
-
-- **[horizon-rust/horizon](https://github.com/horizon-rust/horizon/pulls?q=is%3Apr+author%3Av0ntr3n+is%3Amerged)** *(Minecraft: Java Edition 26.3 Server in Rust)* — **6 Merged Pull Requests** implementing vanilla-parity RNG synchronization and deterministic gameplay mechanics verified against differential harnesses.
-- **[v0ntr3n/rustdesk](https://github.com/v0ntr3n/rustdesk)** *(RustDesk Windows Build Optimization)* — Custom Windows x64 Flutter CI workflow, H.264-only `vcpkg` FFmpeg trimming (`hwcodec`/`vram`), and Release fat-LTO build optimizations.
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
